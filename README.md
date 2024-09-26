@@ -147,7 +147,8 @@ location = "https://xxxx.onrender.com"
 | [AtomHub 可信镜像仓库平台](https://atomhub.openatom.cn/) (只包含基础镜像，共336个) | `https://atomhub.openatom.cn` |
 
 
-补充：
+
+# 添加域名代理转发流量
 触发器这里添加一个代理地址，cloudflare会自己添加记录
 ![image](https://github.com/user-attachments/assets/20623903-94a6-4bc0-8f87-08bdd26f73a7)
 
